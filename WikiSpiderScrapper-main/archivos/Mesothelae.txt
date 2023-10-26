@@ -1,0 +1,39 @@
+
+
+The Mesothelae are a suborder of spiders (order Araneae) that includes a single extant family, Liphistiidae, and a number of extinct families. This suborder is thought to form the sister group to all other living spiders, and to retain ancestral characters, such as a segmented abdomen with spinnerets in the middle and two pairs of book lungs. Members of Liphistiidae are medium to large spiders with eight eyes grouped on a tubercle. They are found only in China, Japan, and southeast Asia.[2] The oldest known Mesothelae spiders are known from the Carboniferous, over 300 million years ago.
+
+The Heptathelidae were once considered their own family; today they are considered a subfamily of the Liphistiidae.
+
+Members of Mesothelae have paraxial chelicerae, two pairs of coxal glands on the legs, eight eyes grouped on a nodule, two pairs of book lungs, and no endites on the base of the pedipalp. Most have at least seven or eight spinnerets near the middle of the abdomen. Lateral spinnerets are multi-segmented.[2]
+
+Recent Mesothelae are characterized by the narrow sternum on the ventral side of the prosoma. Several plesiomorphic characteristics may be useful in recognizing these spiders: there are tergite plates on the dorsal side and the almost median position of the spinnerets on the ventral side of the opisthosoma. Although it has been claimed that they lack venom glands and ducts, which almost all other spiders have,[1] subsequent works have demonstrated that at least some, possibly all, do in fact have both the glands and ducts.[3] All Mesothelae have eight spinnerets in four pairs. Like mygalomorph spiders, they have two pairs of book lungs.[4]
+
+Unlike all other extant mesothelians, heptathelines do not have fishing lines in front of the entrances to the burrows that they construct, making them more difficult to find. They also have a paired receptaculum (unpaired in other liphistiids), and have a conductor in their palpal organ. These long palps can confusingly look like an extra pair of legs, a mistake also made of some solifugids.
+
+Reginald Innes Pocock in 1892 was the first to realize that the exceptional characters of the genus Liphistius (the only member of the group then known) meant that it was more different from the remaining spiders than they were among themselves. Accordingly, he proposed dividing spiders into two subgroups, Mesothelae for Liphistius, and Opisthothelae for all other spiders. The names refer to the position of the spinning organs, which are in the middle of the abdomen in Liphistius and nearer the end in all other spiders.[5] In Greek, μέσος (mesos) means "middle",[6] and θήλα (thēla) "teat".[7]
+
+Pocock divided his Opisthothelae into two groups, which he called Mygalomorphae and Arachnomorphae (now Araneomorphae), implicitly adopting the phylogeny shown below.
+
+Mesothelae
+
+Mygalomorphae
+
+Arachnomorphae (Araneomorphae)
+
+Pocock's approach was criticized by other arachnologists. Thus in 1923, Petrunkevitch rejected grouping mygalomorphs and araneomorphs into Opisthothelae, treating Liphistiomorphae (i.e. Mesothelae), Mygalomorphae and Arachnomorphae (Araneomorphae) as three separate groups. Others, such as Bristowe in 1933, put Liphistiomorphae and Mygalomorphae into one group, called Orthognatha, with Araneomorphae as Labidognatha:[8]
+
+Liphistiomorphae (Mesothelae)
+
+Mygalomorphae
+
+Araneomorphae
+
+In 1976, Platnick and Gertsch argued for a return to Pocock's classification, drawing on morphological evidence.[8] Subsequent phylogenetic studies based on molecular data have vindicated this view.[9][10] The accepted classification of spiders is now:[11]
+
+Order Araneae (spiders)
+
+Liphistiinae spiders are distributed in Myanmar, Thailand, the Malayan peninsula, and Sumatra. Heptathelinae are found in Vietnam, the Eastern provinces of China, and Southern Japan.
+
+A number of families and genera of fossil arthropods have been assigned to the Mesothelae, particularly by Alexander Petrunkevitch. However, Paul A. Selden has shown that most only have "the general appearance of spiders", with segmented abdomens (opisthosomae), but no definite spinnerets.[12] These families include:[13]
+
+Between 2015 and 2019 six genera of Mesothele spider in four families were described from Late Cretaceous (Cenomanian) aged Burmese Amber in Myanmar. Cretaceothele[14]  (Cretaceothelidae)  Burmathele[15] (Burmathelidae), Parvithele, Pulvillothele (Parvithelidae)[15] Intermesothele and Eomesothele (Eomesothelidae)[16]

@@ -1,0 +1,5 @@
+treeDepth: 1        # En niveles
+revisitTime: 35     # En dias
+requestWaitTime: 3  # En segundos
+requestAtSameTime: 4 # Cant Hilos
+maxPerDay: 30

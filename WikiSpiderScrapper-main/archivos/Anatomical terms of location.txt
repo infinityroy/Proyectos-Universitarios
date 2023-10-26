@@ -1,0 +1,144 @@
+
+Standard anatomical terms of location are used to unambiguously describe the anatomy of animals, including humans. The terms, typically derived from Latin or Greek roots, describe something in its standard anatomical position. This position provides a definition of what is at the front ("anterior"), behind ("posterior") and so on. As part of defining and describing terms, the body is described through the use of anatomical planes and anatomical axes.
+
+The meaning of terms that are used can change depending on whether an organism is bipedal or quadrupedal. Additionally, for some animals such as invertebrates, some terms may not have any meaning at all; for example, an animal that is radially symmetrical will have no anterior surface, but can still have a description that a part is close to the middle ("proximal") or further from the middle ("distal").
+
+International organisations have determined vocabularies that are often used as standard vocabularies for subdisciplines of anatomy, for example, Terminologia Anatomica for humans, and Nomina Anatomica Veterinaria for animals. These allow parties that use anatomical terms, such as anatomists, veterinarians, and medical doctors to have a standard set of terms to communicate clearly the position of a structure.
+
+Standard anatomical and zoological terms of location have been developed, usually based on Latin and Greek words, to enable all biological and medical scientists, veterinarians, doctors and anatomists to precisely delineate and communicate information about animal bodies and their organs, even though the meaning of some of the terms often is context-sensitive.[1][2] Much of this information has been standardised in internationally agreed vocabularies for humans (Terminologia Anatomica)[2] and animals (Nomina Anatomica Veterinaria).[1]
+
+For humans, one type of vertebrate, and other animals that stand on two feet (bipeds), terms that are used are different from those that stand on four (quadrupeds).[1] One reason is that humans have a different neuraxis and another is that unlike animals that rest on four limbs, humans are considered when describing anatomy as being in the standard anatomical position, which is standing up with arms outstretched.[2] Thus, what is on "top" of a human is the head, whereas the "top" of a dog may be its back, and the "top" of a flounder could refer to either its left or its right side. Unique terms are used to describe animals without a backbone (invertebrates), because of their wide variety of shapes and symmetry.[3]
+
+Because animals can change orientation with respect to their environment, and because appendages like limbs and tentacles can change position with respect to the main body, terms to describe position need to refer to an animal when it is in its standard anatomical position.[1] This means descriptions as if the organism is in its standard anatomical position, even when the organism in question has appendages in another position. This helps avoid confusion in terminology when referring to the same organism in different postures.[1] In humans, this refers to the body in a standing position with arms at the side and palms facing forward, with thumbs out and to the sides.[2][1]
+
+Many anatomical terms can be combined, either to indicate a position in two axes simultaneously or to indicate the direction of a movement relative to the body. For example, "anterolateral" indicates a position that is both anterior and lateral to the body axis (such as the bulk of the pectoralis major muscle).
+
+In radiology, an X-ray image may be said to be "anteroposterior", indicating that the beam of X-rays passes from their source to patient's anterior body wall through the body to exit through posterior body wall.[4] Combined terms were once generally, hyphenated, but the modern tendency is to omit the hyphen.[5]
+
+Anatomical terms describe structures with relation to four main anatomical planes:[2]
+
+The axes of the body are lines drawn about which an organism is roughly symmetrical.[7] To do this, distinct ends of an organism are chosen, and the axis is named according to those directions. An organism that is symmetrical on both sides has three main axes that intersect at right angles.[3] An organism that is round or not symmetrical may have different axes.[3] Example axes are:
+
+Examples of axes in specific animals are shown below.
+
+Anatomical axes in a human, similar for other orthograde bipedal vertebrates
+
+Anatomical axes and directions in a fish
+
+Spheroid or near-spheroid organs such as testes may be measured by "long" and "short" axis.[11]
+
+Several terms are commonly seen and used as prefixes:
+
+Other terms are used as suffixes, added to the end of words:
+
+
+Superior (from Latin  super 'above') describes what is above something[20] and inferior (from Latin  inferus 'below') describes what is below it.[21] For example, in the anatomical position, the most superior part of the human body is the head and the most inferior is the feet. As a second example, in humans, the neck is superior to the chest but inferior to the head.
+
+Anterior (from Latin  ante 'before') describes what is in front,[22] and posterior (from Latin  post 'after') describes what is to the back of something.[23] For example, for a dog the nose is anterior to the eyes and the tail is considered the most posterior part; for many fish the gill openings are posterior to the eyes but anterior to the tail.
+
+These terms describe how close something is to the midline, or the medial plane.[2]
+Lateral (from Latin  lateralis 'to the side') describes something to the sides of an animal, as in "left lateral" and "right lateral". Medial (from Latin  medius 'middle') describes structures close to the midline,[2] or closer to the midline than another structure. For example, in a human, the arms are lateral to the torso. The genitals are medial to the legs.
+
+The terms "left" and "right" are sometimes used, or their Latin alternatives (Latin: dexter, lit. 'right'; Latin: sinister, lit. 'left'). However, as left and right sides are mirror images, using these words is somewhat confusing, as structures are duplicated on both sides. For example, it is very confusing to say the dorsal fin of a fish is "right of" the left pectoral fin, but is "left of" the right eye,[dubious  – discuss] but much easier and clearer to say "the dorsal fin is medial to the pectoral fins".
+
+Terms derived from lateral include:
+
+Varus (from Latin 'knock-kneed') and valgus (from Latin 'bow-legged') are terms used to describe a state in which a part further away is abnormally placed towards (varus) or away from (valgus) the midline.[28]
+
+
+
+The terms proximal (from Latin  proximus 'nearest') and distal (from Latin  distare 'to stand away from') are used to describe parts of a feature that are close to or distant from the main mass of the body, respectively.[29] Thus the upper arm in humans is proximal and the hand is distal.
+
+"Proximal and distal" are frequently used when describing appendages, such as fins, tentacles, and limbs. Although the direction indicated by "proximal" and "distal" is always respectively towards or away from the point of attachment, a given structure can be either proximal or distal in relation to another point of reference. Thus the elbow is distal to a wound on the upper arm, but proximal to a wound on the lower arm.[30]
+
+This terminology is also employed in molecular biology and therefore by extension is also used in chemistry, specifically referring to the atomic loci of molecules from the overall moiety of a given compound.[31]
+
+Central and peripheral refer to the distance towards and away from the centre of something.[32] That might be an organ, a region in the body, or an anatomical structure. For example, the Central nervous system and the peripheral nervous systems.
+
+Central (from Latin  centralis) describes something close to the centre.[32] For example, the great vessels run centrally through the body; many smaller vessels branch from these.
+
+Peripheral (from Latin  peripheria, originally from Ancient Greek) describes something further away from the centre of something.[33] For example, the arm is peripheral to the body.
+
+
+These terms refer to the distance of a structure from the surface.[2]
+
+Deep (from Old English) describes something further away from the surface of the organism.[34] For example, the external oblique muscle of the abdomen is deep to the skin. "Deep" is one of the few anatomical terms of location derived from Old English rather than Latin – the anglicised Latin term would have been "profound" (from Latin  profundus 'due to depth').[1][35]
+
+Superficial (from Latin  superficies 'surface') describes something near the outer surface of the organism.[1][36] For example, in skin, the epidermis is superficial to the subcutis.
+
+These two terms, used in anatomy and embryology, describe something at the back (dorsal) or front/belly (ventral) of an organism.[2]
+
+The dorsal (from Latin  dorsum 'back') surface of an organism refers to the back, or upper side, of an organism. If talking about the skull, the dorsal side is the top.[37]
+
+
+The ventral (from Latin  venter 'belly') surface refers to the front, or lower side, of an organism.[37]
+
+For example, in a fish, the pectoral fins are dorsal to the anal fin, but ventral to the dorsal fin.
+
+
+
+Specific terms exist to describe how close or far something is to the head or tail of an animal. To describe how close to the head of an animal something is, three distinct terms are used:
+
+For example, in horses, the eyes are caudal to the nose and rostral to the back of the head.
+
+These terms are generally preferred in veterinary medicine and not used as often in human medicine.[41][42][43] In humans, "cranial" and "cephalic" are used to refer to the skull, with "cranial" being used more commonly. The term "rostral" is rarely used in human anatomy, apart from embryology, and refers more to the front of the face than the superior aspect of the organism. Similarly, the term "caudal" is used more in embryology and only occasionally used in human anatomy.[2] This is because the brain is situated at the superior part of the head whereas the nose is situated in the anterior part. Thus, the "rostrocaudal axis" refers to a C shape (see image).
+
+The location of anatomical structures can also be described in relation to different anatomical landmarks. They are used in anatomy, surface anatomy, surgery, and radiology.[44]
+
+Structures may be described as being at the level of a specific spinal vertebra, depending on the section of the vertebral column the structure is at.[44] The position is often abbreviated. For example, structures at the level of the fourth cervical vertebra may be abbreviated as "C4", at the level of the fourth thoracic vertebra "T4", and at the level of the third lumbar vertebra "L3". Because the sacrum and coccyx are fused, they are not often used to provide the location.
+
+References may also take origin from superficial anatomy, made to landmarks that are on the skin or visible underneath.[44] For example, structures may be described relative to the anterior superior iliac spine, the medial malleolus or the medial epicondyle.
+
+Anatomical lines are used to describe anatomical location. For example, the mid-clavicular line is used as part of the cardiac exam in medicine to feel the apex beat of the heart.
+
+Special terms are used to describe the mouth and teeth.[2] Fields such as osteology, palaeontology and dentistry apply special terms of location to describe the mouth and teeth. This is because although teeth may be aligned with their main axes within the jaw, some different relationships require special terminology as well; for example, teeth also can be rotated, and in such contexts terms like "anterior" or "lateral" become ambiguous.[45][46] For example, the terms "distal" and "proximal" are also redefined to mean the distance away or close to the dental arch, and "medial" and "lateral" are used to refer to the closeness to the midline of the dental arch.[47] Terms used to describe structures include "buccal" (from Latin  bucca 'cheek') and "palatal" (from Latin) referring to structures close to the cheek and hard palate respectively.[47]
+
+Several anatomical terms are particular to the hands and feet.[2]
+
+Additional terms may be used to avoid confusion when describing the surfaces of the hand and what is the "anterior" or "posterior" surface – . The term "anterior", while anatomically correct, can be confusing when describing the palm of the hand; Similarly is "posterior", used to describe the back of the hand and arm. This confusion can arise because the forearm can pronate and supinate and flip the location of the hand. For improved clarity, the directional term palmar (from Latin  palma 'palm of the hand') is commonly used to describe the front of the hand, and dorsal is the back of the hand. For example, the top of a dog's paw is its dorsal surface; the underside, either the palmar (on the forelimb) or the plantar (on the hindlimb) surface. The palmar fascia is palmar to the tendons of muscles which flex the fingers, and the dorsal venous arch is so named because it is on the dorsal side of the foot.
+
+In humans, volar can also be used synonymously with palmar to refer to the underside of the palm, but plantar is used exclusively to describe the  sole. These terms describe location as palmar and plantar; For example, volar pads are those on the underside of hands or fingers; the plantar surface describes the sole of the heel, foot or toes.
+
+Similarly, in the forearm, for clarity, the sides are named after the bones. Structures closer to the radius are radial, structures closer to the ulna are ulnar, and structures relating to both bones are referred to as radioulnar. Similarly, in the lower leg, structures near the tibia (shinbone) are tibial and structures near the fibula are fibular (or peroneal).
+
+Anteversion and retroversion are complementary terms describing an anatomical structure that is rotated forwards (towards the front of the body) or backwards (towards the back of the body), relative to some other position. They are particularly used to describe the curvature of the uterus.[48][49]
+
+Several other terms are also used to describe location. These terms are not used to form the fixed axes. Terms include:
+
+Different terms are used because of different body plans in animals, whether animals stand on one or two legs, and whether an animal is symmetrical or not, as discussed above. For example, as humans are approximately bilaterally symmetrical organisms, anatomical descriptions usually use the same terms as those for other vertebrates.[58] However, humans stand upright on two legs, meaning their anterior/posterior and ventral/dorsal directions are the same, and the inferior/superior directions are necessary.[59] Humans do not have a beak, so a term such as "rostral" used to refer to the beak in some animals is instead used to refer to part of the brain;[60] humans do also not have a tail so a term such as "caudal" that refers to the tail end may also be used in humans and animals without tails to refer to the hind part of the body.[61]
+
+In invertebrates, the large variety of body shapes presents a difficult problem when attempting to apply standard directional terms. Depending on the organism, some terms are taken by analogy from vertebrate anatomy, and appropriate novel terms are applied as needed. Some such borrowed terms are widely applicable in most invertebrates; for example proximal, meaning "near" refers to the part of an appendage nearest to where it joins the body, and distal, meaning "standing away from" is used for the part furthest from the point of attachment. In all cases, the usage of terms is dependent on the body plan of the organism.
+
+Anatomical terms of location in a dog
+
+Anatomical terms of location in a kangaroo
+
+Anatomical terms of location in a fish.
+
+Anatomical terms of location in a horse.
+
+In organisms with a changeable shape, such as amoeboid organisms, most directional terms are meaningless, since the shape of the organism is not constant and no distinct axes are fixed. Similarly, in spherically symmetrical organisms, there is nothing to distinguish one line through the centre of the organism from any other. An indefinite number of triads of mutually perpendicular axes could be defined, but any such choice of axes would be useless, as nothing would distinguish a chosen triad from any others. In such organisms, only terms such as superficial and deep, or sometimes proximal and distal, are usefully descriptive.
+
+In organisms that maintain a constant shape and have one dimension longer than the other, at least two directional terms can be used. The long or longitudinal axis is defined by points at the opposite ends of the organism. Similarly, a perpendicular transverse axis can be defined by points on opposite sides of the organism. There is typically no basis for the definition of a third axis. Usually such organisms are planktonic (free-swimming) protists, and are nearly always viewed on microscope slides, where they appear essentially two-dimensional. In some cases a third axis can be defined, particularly where a non-terminal cytostome or other unique structure is present.[43]
+
+Some elongated protists have distinctive ends of the body. In such organisms, the end with a mouth (or equivalent structure, such as the cytostome in Paramecium or Stentor), or the end that usually points in the direction of the organism's locomotion (such as the end with the flagellum in Euglena), is normally designated as the anterior end. The opposite end then becomes the posterior end.[43] Properly, this terminology would apply only to an organism that is always planktonic (not normally attached to a surface), although the term can also be applied to one that is sessile (normally attached to a surface).[62]
+
+Organisms that are attached to a substrate, such as sponges, animal-like protists also have distinctive ends. The part of the organism attached to the substrate is usually referred to as the basal end (from Latin  basis 'support/foundation'), whereas the end furthest from the attachment is referred to as the apical end (from Latin  apex 'peak/tip').
+
+Radially symmetrical organisms include those in the group Radiata –  primarily jellyfish, sea anemones and corals and the comb jellies.[41][43] Adult echinoderms, such as starfish, sea urchins, sea cucumbers and others are also included, since they are pentaradial, meaning they have five discrete rotational symmetry. Echinoderm larvae are not included, since they are bilaterally symmetrical.[41][43] Radially symmetrical organisms always have one distinctive axis.
+
+Cnidarians (jellyfish, sea anemones and corals) have an incomplete digestive system, meaning that one end of the organism has a mouth, and the opposite end has no opening from the gut (coelenteron).[43] For this reason, the end of the organism with the mouth is referred to as the oral end (from Latin  ōrālis 'of the mouth'),[63] and the opposite surface is the aboral end (from Latin  ab- 'away from').[64]
+
+Unlike vertebrates, cnidarians have no other distinctive axes. "Lateral", "dorsal", and "ventral" have no meaning in such organisms, and all can be replaced by the generic term peripheral (from Ancient Greek  περιφέρεια 'circumference'). Medial can be used, but in the case of radiates indicates the central point, rather than a central axis as in vertebrates. Thus, there are multiple possible radial axes and medio-peripheral (half-) axes. However, some biradially symmetrical comb jellies do have distinct "tentacular" and "pharyngeal" axes[65] and are thus anatomically equivalent to bilaterally symmetrical animals.
+
+Aurelia aurita, another species of jellyfish, showing multiple radial and medio-peripheral axes
+
+The sea star Porania pulvillus, aboral and oral surfaces
+
+Special terms are used for spiders. Two specialized terms are useful in describing views of arachnid legs and pedipalps. Prolateral refers to the surface of a leg that is closest to the anterior end of an arachnid's body. Retrolateral refers to the surface of a leg that is closest to the posterior end of an arachnid's body.[66] Most spiders have eight eyes in four pairs. All the eyes are on the carapace of the prosoma, and their sizes, shapes and locations are characteristic of various spider families and other taxa.[67] Usually, the eyes are arranged in two roughly parallel, horizontal and symmetrical rows of eyes.[67] Eyes are labelled according to their position as anterior and posterior lateral eyes (ALE) and (PLE); and anterior and posterior median eyes (AME) and (PME).[67]
+
+Aspects of spider anatomy; This aspect shows the mainly prolateral surface of the anterior femora, plus the typical horizontal eye pattern of the Sparassidae
+
+Typical arrangement of eyes in the Lycosidae, with PME being the largest
+
+In the Salticidae the AME are the largest

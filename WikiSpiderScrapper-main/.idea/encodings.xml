@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/metadatos/Amber-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Appendage-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Disease-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Gas exchange-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Hemoglobin-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Lamella (surface anatomy)-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Malpighian tubule system-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Opiliones-metadatos.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/metadatos/Trachea-metadatos.txt" charset="windows-1252" />
+  </component>
+</project>

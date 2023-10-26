@@ -1,0 +1,95 @@
+%YAML 1.2
+---
+name: Reverse
+file_extensions: [rvs]
+scope: source.reverse
+# *COMENTARIO          \*/.*/\*
+# *PUNTUACION          ([,{}()])
+# *PALABRA_CLAVE       (indefinir|quedarse|fin|inicio|colgar|(y(\s)+)|(o(\s)+))
+# *CONDICIONAL,        (sino|ademas)
+# *CAMBIO_LINEA        ((\n)+)
+# *CAMBIO_INSTRUCCION  (;+)
+# *REPETICION          (romper)
+# *COMPARADOR          (!==|==|>=|<=|>|<)
+# *ASIGNACION          r'^(!=)
+# *OPERADOR            (-|\+|/|\*)
+# *TEXTO               ("[a-zA-Z(\s)0-9]*")
+# *IDENTIFICADOR       ([a-z][a-zA-Z_0-9]*)
+# *FLOTANTE            ((\+)?[0-9]+\.[0-9]+)
+# *ENTERO              ((\+)?[0-9]+)
+# *BLANCOS             (\s)+
+contexts:
+  main:
+    - match: \*/
+      scope: comment.reverse
+      push: comentario
+    - match: (romper|sino|ademas|quedarse|(y(\s)+)|(o(\s)+))
+      scope: keyword.control.reverse
+    - match: (fin|inicio)
+      scope: storage.type.function
+    - match: \bindefinir\b
+      scope: storage.type.function
+      push: function
+    - match: colgar
+      scope: storage.type.function
+      push: llamada
+    - match: ','
+      scope: punctuation.separator
+    - match: ([{}()])
+      scope: punctuation
+    - match: ;
+      scope: keyword.control
+    - match: (!==|==|>=|<=|>|<)
+      scope: keyword.operator
+    - match: (!=)
+      scope: keyword.operator.assignment
+    - match: (-|\+|/|\*)
+      scope: keyword.operator.arithmetic
+    - include: identificador
+    - include: literal
+  function:
+    - meta_scope: punctuation
+    - match: ([a-z][a-zA-Z_0-9]*)
+      scope: entity.name.function
+    - include: identificador
+    - include: literal
+    - match: \(
+      push: parametros
+      pop: true
+  llamada:
+    - meta_scope: punctuation
+    - match: ([a-z][a-zA-Z_0-9]*)
+      scope: entity.name.function
+    - include: literal
+    - match: \(
+      push: parametros
+      pop: true
+  parametros:
+    - include: indentificador
+    - include: literal
+    - match: \)
+      pop: true
+  comentario:
+    - meta_scope: comment
+    - match: /\*
+      pop: true
+  identificador:
+    - match: ([a-z][a-zA-Z_0-9]*)
+      scope: variable
+  literal:
+    - include: numero
+    - match: '"'
+      push: texto
+  numero:
+    - match: ((\+)?[0-9]+\.[0-9]+)
+      scope: constant.numeric.integer.reverse
+    - include: entero
+  entero:
+    - match: \b([0-9]+)\b
+      scope: constant.numeric.integer.reverse
+  texto:
+    - meta_scope: string.quoted.double.reverse
+    - match: \\.
+      scope: constant.character.escape.reverse
+    - match: '"'
+      pop: true

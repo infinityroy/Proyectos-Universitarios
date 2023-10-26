@@ -1,0 +1,51 @@
+
+
+Ricinulei is an order of arachnids. Like most arachnids, they are predatory, eating small arthropods. In older works they are sometimes referred to as Podogona.
+
+As of June 2015[update], 76 extant species of ricinuleids have been described worldwide, all in the single family Ricinoididae.[1] They occur today in west-central Africa (Ricinoides) and the Neotropics (Cryptocellus and Pseudocellus) as far north as Texas. In addition to the three living genera, there are fossil species from the upper Carboniferous of Euramerica and the Cretaceous Burmese amber.
+
+The most important general account of ricinuleid anatomy remains the 1904 monograph by Hans Jacob Hansen and William Sørensen.[2] Useful further studies can be found in, e.g., the work of Pittard and Mitchell,[3] Gerald Legg[4][5] and L. van der Hammen.[6]
+
+Ricinulei are typically about 5 to 10 millimetres (0.2 to 0.4 in) long. The cuticle (or exoskeleton) of both the legs and body is remarkably thick.[7] Their most notable feature is a "hood" (or cucullus) which can be raised and lowered over the head. When lowered, it covers the mouth and the chelicerae. Living ricinuleids have no eyes, although two pairs of lateral eyes can be seen in fossils and even living species retain light-sensitive areas of cuticle in this position.
+
+The heavy-bodied abdomen (or opisthosoma) exhibits a narrow pedicel, or waist, where it attaches to the prosoma. Curiously, there is a complex coupling mechanism between the prosoma and opisthosoma. The front margin of the opisthosoma tucks into a corresponding fold at the back of the carapace. The advantages of this unusual system are not well understood, and since the genital opening is located on the pedicel (another rather unusual feature) the animals have to 'unlock' themselves in order to mate. The abdomen is divided dorsally into a series of large plates or tergites, each of which is subdivided into a median and lateral plate.
+
+The mouthparts, or chelicerae, are composed of two segments forming a fixed and a moveable digit. Sensory organs are also found associated with the mouthparts;[8] presumably for tasting the food. The chelicerae can be retracted and at rest they are normally hidden beneath the cucullus.
+
+Ricinuleid pedipalps are complex appendages. They are typically used to manipulate food items, but also bear many sensory structures and are used as 'short range' sensory organs.[9] The pedipalps end in pincers that are small relative to their bodies, when compared to those of the related orders of scorpions and pseudoscorpions. Similar pincers on the pedipalps have now been found in the extinct order Trigonotarbida (see Relationships).
+
+As in many harvestmen, the second pair of legs is longest in ricinuleids and these limbs are used to feel ahead of the animal, almost like antennae. If the pedipalps are 'short range' sensory organs, the second pair of legs are the corresponding 'long range' ones. Sensilla on the tarsi at the ends of legs I and II (which are used more frequently to sense the surroundings) differ from those of legs III and IV.[10][11] In male ricinuleids, the third pair of legs are uniquely modified to form copulatory organs. The shape of these organs is very important for taxonomy and can be used to tell males of different species apart.[12]
+
+An older summary of ricinuleid internal anatomy was published by Jacques Millot.[13] The midgut has been described,[14] while the excretory system consists of Malpighian tubules and a pair of coxal glands. Female ricinuleids have spermathecae,[15] presumably to store sperm. The male genitalia, sperm cells and sperm production have also been intensively studied.[16][17] Gas exchange takes place through trachea, and opens through a single pair of spiracles on the prosoma.[18] At least one Brazilian species appears to have a plastron, which may help it prevent getting wet and allow it to continue to breathe, even if inundated with water.[19]
+
+Ricinuleids inhabit the leaf litter of rainforest floors, as well as caves, where they search for prey with their elongate sensory second leg pair.[20] Ricinulei feed on other small invertebrates, although details of their natural prey are sparse.[21] Relatively little is known about their courtship and mating habits,[22] but males have been observed using their modified third pair of legs to transfer a spermatophore to the female. The eggs are carried under the mother's hood, until the young hatch into six-legged larva, which later molt into their eight-legged adult forms. The six-legged larva is a feature they share with Acari (see Relationships). Despite the scarce number of studies about the biology of this group, recent studies have reported nocturnal habits, as well as novel behaviors for this group, which include interactions between individuals different than mating.[23] Ricinuleids are often found in large congregations, the exact purpose of which is unknown.[24]
+
+Ricinulei are unique among arachnids in that the first one to be discovered was a fossil, described in 1837 by the noted English geologist William Buckland;[25] albeit misinterpreted as a beetle. Further fossil species were added in subsequent years by, among others, Samuel Hubbard Scudder, Reginald Innes Pocock and Alexander Petrunkevitch.
+
+Fifteen of the twenty species of fossil ricinuleids discovered so far originate from the late Carboniferous (Pennsylvanian) Coal Measures of Europe and North America. They were revised in detail in 1992 by Paul Selden,[26] who placed them in a separate suborder, Palaeoricinulei. The fossils are divided into two families: Curculioididae with eleven fossil species in two genera, and Poliocheridae with four species in two genera. The poliocherids are more like modern ricinuleids in having an opisthosoma with a series of three large, divided tergites. Curculioidids, by contrast, have an opisthosoma without obvious tergites, but with a single median sulcus; a dividing line running down the middle of the back. This superficially resembles the elytra of a beetle and explains why Buckland originally misidentified the first fossil species. Five species: ?Poliochera cretacea, Primoricinuleus pugio, Hirsutisoma acutiformis, H. bruckschi and H. dentata, are known from the Cenomanian (~ 99 million years old) Burmese amber of Myanmar;[27][28][29] Monooculricinuleus incisus and M. semiglobosus from Burmese amber were originally described as members of Ricinulei, but they might belong to Opiliones instead.[30]
+
+Acari
+
+Palpigradi
+
+Pycnogonida
+
+†Trigonotarbida
+
+Ricinulei
+
+Araneae
+
+Amblypygi
+
+Uropygi
+
+Schizomida
+
+The first living ricinuleid was described from West Africa by Félix Édouard Guérin-Méneville in 1838,[32] i.e. one year after the first fossil. This was followed by a second living example collected by Henry Walter Bates in Brazil and described by John Obadiah Westwood in 1874,[33] and a third from Sierra Leone by Tamerlan Thorell in 1892.[34] In these early studies ricinuleids were thought to be unusual harvestmen (Opiliones), and in his 1892 paper Thorell introduced the name "Ricinulei" for these animals as a suborder of the harvestman. Ricinuleids were subsequently recognized as an arachnid order in their own right in the 1904 monograph by Hansen & Soerensen. These authors recognised a group called "Arachnida micrura", comprising spiders, whip spiders, whip scorpions and ricinuleids, which they defined as having a rather narrow join between the prosoma and opisthosoma and a small 'tail end' to the opisthosoma.
+
+Morphological studies of arachnid relationships have largely concluded that ricinuleids are most closely related to Acari (mites and ticks) though more recent phylogenomic studies refute this.[35] [36]  L. van der Hammen placed ricinuleids in a group called "Cryptognomae",[37] together with the anactinotrichid mites only. Peter Weygoldt and Hannes Paulus referred to ricinuleids and all mites as "Acarinomorpha".[38][39] Jeffrey Shultz used the name "Acaromorpha".[40][41] This hypothesis recognizes that both ricinuleids and mites hatch with a larval stage with only six legs, rather than the usual eight seen in arachnids. The additional pair of legs appears later during development. Some authors have also suggested that the gnathosoma, a separate part of the body bearing the mouthparts, is also a unique character for ricinuleids and mites,[42] but this feature is rather complex and difficult to interpret and other authors would restrict the presence of a gnathosoma sensu stricto to mites only.
+
+In 1892, Ferdinand Karsch suggested that ricinuleids were the last living descendants of the extinct arachnid order Trigonotarbida.[43] This hypothesis was widely overlooked, but was reintroduced by Jason Dunlop in 1996.[44] Characters shared by ricinuleids and trigonotarbids include the division of the tergites on the opisthososma into median and lateral plates and the presence of an unusual 'locking mechanism' between the two halves of the body. A further study subsequently recognised that the tip of the pedipalp in both ricinuleids and trigonotarbids ends in a similar small claw.[45] Ricinuleids as sister group of trigonotarbids was also recovered in the 2002 study by Gonzalo Giribet and colleagues.[31]
+
+Recent phylogenomic studies have recovered different relationships then those previously suggested. An analysis in early 2019 suggested the sister group of the ricinuleids may be Xiphosura, the arthropod order containing horseshoe crabs.[46] In response to this work, a more recent study placed Ricinulei and Opiliones as sister taxa.[47]

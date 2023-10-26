@@ -1,0 +1,137 @@
+version: "3.8"
+
+
+services:
+
+  dns_interceptor:
+    build: 
+      context: ./DnsInterceptor
+      dockerfile: dockerFile
+    user: root
+    container_name: DnsInterceptor
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    restart: on-failure
+    command: ["sleep", "infinity"]
+    privileged: true
+    ports:
+      - "53:53/udp"
+    volumes:
+      #Guardo el makefile dentro de la carpeta DNS_interceptor
+      - ./DnsInterceptor/lib/DNS_interceptor.c:/DNS_interceptor.c
+      - ./DnsInterceptor/lib/Makefile:/Makefile
+      - ./DnsInterceptor/bash.sh:/bash.sh
+    networks:
+      host-pc:
+
+  dns_api:
+    build: 
+      context: ./DnsApi
+      dockerfile: dockerFile
+    user: root
+    container_name: DnsApi
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    restart: on-failure
+    command: ["sleep", "infinity"]
+    privileged: true
+    expose:
+      - 443
+      - 53
+    ports:
+      - "443:443"
+      - "53:53"
+    environment:
+      - FLASK_APP=rest_api.py
+      - FLASK_RUN_PORT=8000
+    volumes:
+      - ./DnsApi/lib/rest_api.py:/rest_api.py
+      - ./DnsApi/bash.sh:/bash.sh
+      - ./DnsApi/lib/cert.pem:/cert.pem
+      - ./DnsApi/lib/key.pem:/key.pem
+    networks:
+      host-pc:
+        ipv4_address: 172.24.2.2
+
+  elasticsearch:
+    build: 
+      context: ./ElasticSearch
+      dockerfile: dockerFile
+    container_name: ElasticSearch
+    logging:
+      driver: none
+    ports:
+      - 9200:9200
+    privileged: true
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    restart: on-failure
+    environment:
+    - "ES_JAVA_OPTS=-Xms512m -Xmx2524m"
+    - "discovery.type=single-node"
+    #volumes:
+    #  - ./ElasticSearch/data2/:/usr/share/elasticsearch/data
+    #  - ./ElasticSearch/data2/nodes/0/_state:/usr/share/elasticsearch/data/nodes/0/_state
+    #  - ./ElasticSearch/data2/nodes/0/indices/9J3p7RSNT9WUIz0_DcyflQ:/usr/share/elasticsearch/data/nodes/0/indices/9J3p7RSNT9WUIz0_DcyflQ
+    #  - ./ElasticSearch/data2/nodes/0/indices/fH-svmsSQROLTnqcQNDCxA:/usr/share/elasticsearch/data/nodes/0/indices/fH-svmsSQROLTnqcQNDCxA
+    #  - ./ElasticSearch/data2/nodes/0/indices/PyB7SgzwSwG9noXCjN71UQ:/usr/share/elasticsearch/data/nodes/0/indices/PyB7SgzwSwG9noXCjN71UQ
+    networks:
+      host-pc:
+        ipv4_address: 172.24.2.3
+  
+  kibana:
+    build: 
+      context: ./Kibana
+      dockerfile: dockerFile
+    user: root
+    volumes:
+      - ./Kibana/kibana.yml:/usr/share/kibana/config/kibana.yml
+    container_name: Kibana
+    logging:
+      driver: none
+    ports:
+      - 5601:5601
+    privileged: true
+    depends_on:
+      - elasticsearch
+    environment:
+      - ELASTICSEARCH_URL=http://localhost:9200
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    restart: on-failure
+    networks:
+      host-pc:
+
+  initializer:
+    build: 
+      context: ./initializer
+      dockerfile: dockerFile
+    user: root
+    container_name: initializer
+    restart: on-failure
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    privileged: true
+    depends_on:
+      - elasticsearch
+    volumes:
+      -  ./initializer/wait-for-elastic.sh:/wait-for-elastic.sh
+    networks:
+      host-pc:
+
+
+networks:
+  host-pc:
+    name: Host bridge
+    driver: bridge
+    driver_opts:
+      parent: eth0
+    ipam:
+      driver: default
+      config:
+        - subnet: "172.24.2.0/16"

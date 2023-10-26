@@ -1,0 +1,258 @@
+Gas exchange is the physical process by which gases move passively by diffusion across a surface. For example, this surface might be the air/water interface of a water body, the surface of a gas bubble in a liquid, a gas-permeable membrane, or a biological membrane that forms the boundary between an organism and its extracellular environment.
+
+Gases are constantly consumed and produced by cellular and metabolic reactions in most living things, so an efficient system for gas exchange between, ultimately, the interior of the cell(s) and the external environment is required. Small, particularly unicellular organisms, such as bacteria and protozoa, have a high surface-area to volume ratio. In these creatures the gas exchange membrane is typically the cell membrane. Some small multicellular organisms, such as flatworms, are also able to perform sufficient gas exchange across the skin or cuticle that surrounds their bodies. However, in most larger organisms, which have a small surface-area to volume ratios, specialised structures with convoluted surfaces such as gills, pulmonary alveoli and spongy mesophyll provide the large area needed for effective gas exchange. These convoluted surfaces may sometimes be internalised into the body of the organism. This is the case with the alveoli, which form the inner surface of the mammalian lung, the spongy mesophyll, which is found inside the leaves of some kinds of plant, or the gills of those molluscs that have them, which are found in the mantle cavity.
+
+In aerobic organisms, gas exchange is particularly important for respiration, which involves the uptake of oxygen (O2) and release of carbon dioxide (CO2). Conversely, in oxygenic photosynthetic organisms such as most land plants, uptake of carbon dioxide and release of both oxygen and water vapour are the main gas-exchange processes occurring during the day. Other gas-exchange processes are important in less familiar organisms: e.g. carbon dioxide, methane and hydrogen are exchanged across the cell membrane of methanogenic archaea. In nitrogen fixation by diazotrophic bacteria, and denitrification by heterotrophic bacteria (such as Paracoccus denitrificans and various pseudomonads),[1] nitrogen gas is exchanged with the environment, being taken up by the former and released into it by the latter, while giant tube worms rely on bacteria to oxidize hydrogen sulfide extracted from their deep sea environment,[2] using dissolved oxygen in the water as an electron acceptor.
+
+Diffusion only takes place with a concentration gradient. Gases will flow from a high concentration to a low concentration.
+A high oxygen concentration in the alveoli and low oxygen concentration in the capillaries causes oxygen to move into the capillaries. 
+A high carbon dioxide concentration in the capillaries and low carbon dioxide concentration in the alveoli causes carbon dioxide to move into the alveoli. 
+
+The exchange of gases occurs as a result of diffusion down a concentration gradient. Gas molecules move from a region in which they are at high concentration to one in which they are at low concentration. Diffusion is a passive process, meaning that no energy is required to power the transport, and it follows Fick's Law:[citation needed]
+
+In relation to a typical biological system, where two compartments ('inside' and 'outside'), are separated by a membrane barrier, and where a gas is allowed to spontaneously diffuse down its concentration gradient:[citation needed]
+
+Fig. 1. Fick's Law for gas-exchange surface
+
+Gases must first dissolve in a liquid in order to diffuse across a membrane, so all biological gas exchange systems require a moist environment.[3] In general, the higher the concentration gradient across the gas-exchanging surface, the faster the rate of diffusion across it. Conversely, the thinner the gas-exchanging surface (for the same concentration difference), the faster the gases will diffuse across it.[4]
+
+In the equation above, J is the flux expressed per unit area, so increasing the area will make no difference to its value. However, an increase in the available surface area, will increase the amount of gas that can diffuse in a given time.[4] This is because the amount of gas diffusing per unit time (dq/dt) is the product of J and the area of the gas-exchanging surface, A:
+
+Single-celled organisms such as bacteria and amoebae do not have specialised gas exchange surfaces, because they can take advantage of the high surface area they have relative to their volume. The amount of gas an organism produces (or requires) in a given time will be in rough proportion to the volume of its cytoplasm. The volume of a unicellular organism is very small, therefore it produces (and requires) a relatively small amount of gas in a given time. In comparison to this small volume, the surface area of its cell membrane is very large, and adequate for its gas-exchange needs without further modification. However, as an organism increases in size, its surface area and volume do not scale in the same way. Consider an imaginary organism that is a cube of side-length, L. Its volume increases with the cube (L3) of its length, but its external surface area increases only with the square (L2) of its length. This means the external surface rapidly becomes inadequate for the rapidly increasing gas-exchange needs of a larger volume of cytoplasm. Additionally, the thickness of the surface that gases must cross (dx in Fick's Law) can also be larger in larger organisms: in the case of a single-celled organism, a typical cell membrane is only 10 nm thick;[5] but in larger organisms such as roundworms (Nematoda) the equivalent exchange surface - the cuticle - is substantially thicker at 0.5 μm.[6]
+
+In multicellular organisms therefore, specialised respiratory organs such as gills or lungs are often used to provide the additional surface area for the required rate of gas exchange with the external environment. However the distances between the gas exchanger and the deeper tissues are often too great for diffusion to meet gaseous requirements of these tissues. The gas exchangers are therefore frequently coupled to gas-distributing circulatory systems, which transport the gases evenly to all the body tissues regardless of their distance from the gas exchanger.[7]
+
+Some multicellular organisms such as flatworms (Platyhelminthes) are relatively large but very thin, allowing their outer body surface to act as a gas exchange surface without the need for a specialised gas exchange organ. Flatworms therefore lack gills or lungs, and also lack a circulatory system. Other multicellular organisms such as sponges (Porifera) have an inherently high surface area, because they are very porous and/or branched. Sponges do not require a circulatory system or specialised gas exchange organs, because their feeding strategy involves one-way pumping of water through their porous bodies using flagellated collar cells. Each cell of the sponge's body is therefore exposed to a constant flow of fresh oxygenated water. They can therefore rely on diffusion across their cell membranes to carry out the gas exchange needed for respiration.[8]
+
+In organisms that have circulatory systems associated with their specialized gas-exchange surfaces, a great variety of systems are used for the interaction between the two.
+
+In a countercurrent flow system, air (or, more usually, the water containing dissolved air) is drawn in the opposite direction to the flow of blood in the gas exchanger. A countercurrent system such as this maintains a steep concentration gradient along the length of the gas-exchange surface (see lower diagram in Fig. 2). This is the situation seen in the gills of fish and many other aquatic creatures.[9] The gas-containing environmental water is drawn unidirectionally across the gas-exchange surface, with the blood-flow in the gill capillaries beneath flowing in the opposite direction.[9][10][11] Although this theoretically allows almost complete transfer of a respiratory gas from one side of the exchanger to the other, in fish less than 80% of the oxygen in the water flowing over the gills is generally transferred to the blood.[9]
+
+Alternative arrangements are cross current systems found in birds.[12][13] and dead-end air-filled sac systems found in the lungs of mammals.[14][15] In a cocurrent flow system, the blood and gas (or the fluid containing the gas) move in the same direction through the gas exchanger. This means the magnitude of the gradient is variable along the length of the gas-exchange surface, and the exchange will eventually stop when an equilibrium has been reached (see upper diagram in Fig. 2).[9]
+Cocurrent flow gas exchange systems are not known to be used in nature.
+
+The gas exchanger in mammals is internalized to form lungs, as it is in most of the larger land animals.[citation needed] Gas exchange occurs in microscopic dead-end  air-filled sacs called alveoli, where a very thin membrane (called the blood-air barrier) separates the blood in the alveolar capillaries (in the walls of the alveoli) from the alveolar air in the sacs.
+
+The membrane across which gas exchange takes place in the alveoli (i.e. the blood-air barrier) is extremely thin (in humans, on average, 2.2 μm thick).[14] It consists of the alveolar epithelial cells, their basement membranes and the endothelial cells of the pulmonary capillaries (Fig. 4).[14][16] The large surface area of the membrane comes from the folding of the membrane into about 300 million alveoli, with diameters of approximately 75-300 μm each. This provides an extremely large surface area (approximately 145 m2) across which gas exchange can occur.[14]
+
+Air is brought to the alveoli in small doses (called the tidal volume), by breathing in (inhalation) and out (exhalation) through the respiratory airways, a set of relatively narrow and moderately long tubes which start at the nose or mouth and end in the alveoli of the lungs in the chest. Air moves in and out through the same set of tubes, in which the flow is in one direction during inhalation, and in the opposite direction during exhalation.
+
+During each inhalation, at rest, approximately 500 ml of fresh air flows in through the nose. Its is warmed and moistened as it flows through the nose and pharynx. By the time it reaches the trachea the inhaled air's temperature is 37 °C and it is saturated with water vapor. On arrival in the alveoli it is diluted and thoroughly mixed with the approximately  2.5–3.0 liters of air that remained in the alveoli after the last exhalation. This relatively large volume of air that is semi-permanently present in the alveoli throughout the breathing cycle is known as the functional residual capacity (FRC).[15]
+
+At the beginning of inhalation the airways are filled with unchanged alveolar air, left over from the last exhalation. This is the dead space volume, which is usually about 150 ml.[17] It is the first air to re-enter the alveoli during inhalation. Only after the dead space air has returned to the alveoli does the remainder of the tidal volume (500 ml - 150 ml = 350 ml) enter the alveoli.[15] The entry of such a small volume of fresh air with each inhalation, ensures that the composition of the FRC hardly changes during the breathing cycle (Fig. 5).[15] The alveolar partial pressure of oxygen remains very close to 13–14 kPa (100 mmHg), and the partial pressure of carbon dioxide varies minimally around 5.3 kPa (40 mmHg) throughout the breathing cycle (of inhalation and exhalation).[15] The corresponding partial pressures of oxygen and carbon dioxide in the ambient (dry) air at sea level are 21 kPa (160 mmHg) and 0.04 kPa (0.3 mmHg) respectively.[15]
+
+This alveolar air, which constitutes the FRC, completely surrounds the blood in the alveolar capillaries (Fig. 6). Gas exchange in mammals occurs between this alveolar air (which differs significantly from fresh air) and the blood in the alveolar capillaries. The gases on either side of the gas exchange membrane equilibrate by simple diffusion. This ensures that the partial pressures of oxygen and carbon dioxide in the blood leaving the alveolar capillaries, and ultimately circulates throughout the body, are the same as those in the FRC.[15]
+
+The marked difference between the composition of the alveolar air and that of the ambient air can be maintained because the functional residual capacity is contained in dead-end sacs connected to the outside air by long, narrow, tubes (the airways: nose, pharynx, larynx, trachea, bronchi and their branches and sub-branches down to the bronchioles). This anatomy, and the fact that the lungs are not emptied and re-inflated with each breath, provides mammals with a "portable atmosphere", whose composition differs significantly from the present-day ambient air.[18]
+
+The composition of the air in the FRC is carefully monitored, by measuring the partial pressures of oxygen and carbon dioxide in the arterial blood. If either gas pressure deviates from normal, reflexes are elicited that change the rate and depth of breathing in such a way that normality is restored within seconds or minutes.[15]
+
+All the blood returning from the body tissues to the right side of the heart flows through the alveolar capillaries before being pumped around the body again. On its passage through the lungs the blood comes into close contact with the alveolar air, separated from it by a very thin diffusion membrane which is only, on average, about 2 μm thick.[14] The gas pressures in the blood will therefore rapidly equilibrate with those in the alveoli, ensuring that the arterial blood that circulates to all the tissues throughout the body has an oxygen tension of 13−14 kPa (100 mmHg), and a carbon dioxide tension of 5.3 kPa (40 mmHg). These arterial partial pressures of oxygen and carbon dioxide are homeostatically controlled. A rise in the arterial 
+
+
+
+
+P
+
+
+
+
+C
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {CO} }_{2}}}
+
+, and, to a lesser extent, a fall in the arterial 
+
+
+
+
+P
+
+
+
+
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {O} }_{2}}}
+
+, will reflexly cause deeper and faster breathing till the blood gas tensions return to normal. The converse happens when the carbon dioxide tension falls, or, again to a lesser extent, the oxygen tension rises: the rate and depth of breathing are reduced till blood gas normality is restored.
+
+Since the blood arriving in the alveolar capillaries has a 
+
+
+
+
+P
+
+
+
+
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {O} }_{2}}}
+
+ of, on average, 6 kPa (45 mmHg), while the pressure in the alveolar air is 13 kPa (100 mmHg), there will be a net diffusion of oxygen into the capillary blood, changing the composition of the 3 liters of alveolar air slightly. Similarly, since the blood arriving in the alveolar capillaries has a 
+
+
+
+
+P
+
+
+
+
+C
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {CO} }_{2}}}
+
+ of also about 6 kPa (45 mmHg), whereas that of the alveolar air is 5.3 kPa (40 mmHg), there is a net movement of carbon dioxide out of the capillaries into the alveoli. The changes brought about by these net flows of individual gases into and out of the functional residual capacity necessitate the replacement of about 15% of the alveolar air with ambient air every  5 seconds or so. This is very tightly controlled by the continuous monitoring of the arterial blood gas tensions (which accurately reflect partial pressures  of the respiratory gases in the alveolar air) by the aortic bodies, the carotid bodies, and the blood gas and pH sensor on the anterior surface of the medulla oblongata in the brain. There are also oxygen and carbon dioxide sensors in the lungs, but they primarily determine the diameters of the bronchioles and pulmonary capillaries, and are therefore responsible for directing the flow of air and blood to different parts of the lungs.
+
+It is only as a result of accurately maintaining the composition of the 3 liters alveolar air that with each breath some carbon dioxide is discharged into the atmosphere and some oxygen is taken up from the outside air. If more carbon dioxide than usual has been lost by a short period of hyperventilation, respiration will be slowed down or halted until the alveolar 
+
+
+
+
+P
+
+
+
+
+C
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {CO} }_{2}}}
+
+ has returned to 5.3 kPa (40 mmHg). It is therefore strictly speaking untrue that the primary function of the respiratory system is to rid the body of carbon dioxide "waste". In fact the total concentration of carbon dioxide in arterial blood  is about 26 mM (or 58 ml per 100 ml),[19] compared to the concentration of oxygen in saturated arterial blood of about 9 mM (or 20 ml per 100 ml blood).[15] This large concentration of carbon dioxide plays a pivotal role in the determination and maintenance of the pH of the extracellular fluids. The carbon dioxide that is breathed out with each breath could probably be more correctly be seen as a byproduct of the body's extracellular fluid carbon dioxide and  pH homeostats
+
+If these homeostats are compromised, then a respiratory acidosis, or a respiratory alkalosis will occur. In the long run these can be compensated by renal adjustments to the H+ and HCO3− concentrations in the plasma; but since this takes time, the hyperventilation syndrome can, for instance, occur when agitation or anxiety cause a person to breathe fast and deeply[20] thus blowing off too much CO2 from the blood into the outside air, precipitating a set of distressing symptoms which result from an excessively high pH of the extracellular fluids.[21]
+
+Oxygen has a very low solubility in water, and is therefore carried in the blood loosely combined with hemoglobin. The oxygen is held on the hemoglobin by four ferrous iron-containing heme groups per hemoglobin molecule. When all the heme groups carry one O2 molecule each the blood is said to be "saturated" with oxygen, and no further increase in the partial pressure of oxygen will meaningfully increase the oxygen concentration of the blood. Most of the carbon dioxide in the blood is carried as HCO3− ions in the plasma. However the conversion of dissolved CO2 into HCO3− (through the addition of water) is too slow for the rate at which the blood circulates through the tissues on the one hand, and alveolar capillaries on the other. The reaction is therefore catalyzed by carbonic anhydrase, an enzyme inside the red blood cells.[22] The reaction can go in either direction depending on the prevailing partial pressure of carbon dioxide. A small amount of carbon dioxide is carried on the protein portion of the hemoglobin molecules as carbamino groups. The total concentration of carbon dioxide (in the form of bicarbonate ions, dissolved CO2, and carbamino groups) in arterial blood (i.e. after it has equilibrated with the alveolar air) is about 26 mM (or 58 ml/100 ml),[19] compared to the concentration of oxygen in saturated arterial blood of about 9 mM (or 20 ml/100 ml blood).[15]
+
+The dissolved oxygen content in fresh water is approximately 8–10 milliliters per liter compared to that of air which is 210 milliliters per liter.[23] Water is 800 times more dense than air[24] and 100 times more viscous.[23] Therefore, oxygen has a diffusion rate in air 10,000 times greater than in water.[23] The use of sac-like lungs to remove oxygen from water would therefore not be efficient enough to sustain life.[23] Rather than using lungs, gaseous exchange takes place across the surface of highly vascularized gills. Gills are specialised organs containing filaments, which further divide into lamellae. The lamellae contain capillaries that provide a large surface area and short diffusion distances, as their walls are extremely thin.[25] Gill rakers are found within the exchange system in order to filter out food, and keep the gills clean.
+
+Gills use a countercurrent flow system that increases the efficiency of oxygen-uptake (and waste gas loss).[9][10][11] Oxygenated water is drawn in through the mouth and passes over the gills in one direction while blood flows through the lamellae in the opposite direction. This countercurrent maintains steep concentration gradients along the entire length of each capillary (see the diagram in the "Interaction with circulatory systems" section above). Oxygen is able to continually diffuse down its gradient into the blood, and the carbon dioxide down its gradient into the water.[10] The deoxygenated water will eventually pass out through the operculum (gill cover). Although countercurrent exchange systems theoretically allow an almost complete transfer of a respiratory gas from one side of the exchanger to the other, in fish less than 80% of the oxygen in the water flowing over the gills is generally transferred to the blood.[9]
+
+Amphibians have three main organs involved in gas exchange: the lungs, the skin, and the gills, which can be used singly or in a variety of different combinations. The relative importance of these structures differs according to the age, the environment and species of the amphibian. The skin of amphibians and their larvae is highly vascularised, leading to relatively efficient gas exchange when the skin is moist. The larvae of amphibians, such as the pre-metamorphosis tadpole stage of frogs, also have external gills. The gills are absorbed into the body during metamorphosis, after which the lungs will then take over. The lungs are usually simpler than in the other land vertebrates, with few internal septa and larger alveoli; however, toads, which spend more time on land, have a larger alveolar surface with more developed lungs. To increase the rate of gas exchange by diffusion, amphibians maintain the concentration gradient across the respiratory surface using a process called buccal pumping.[26] The lower floor of the mouth is moved in a "pumping" manner, which can be observed by the naked eye.
+
+All reptiles breathe using lungs. In squamates (the lizards and snakes) ventilation is driven by the axial musculature, but this musculature is also used during movement, so some squamates rely on buccal pumping to maintain gas exchange efficiency.[27]
+
+Due to the rigidity of turtle and tortoise shells, significant expansion and contraction of the chest is difficult. Turtles and tortoises depend on muscle layers attached to their shells, which wrap around their lungs to fill and empty them.[28] Some aquatic turtles can also pump water into a highly vascularised mouth or cloaca to achieve gas-exchange.[29][30]
+
+Crocodiles have a structure similar to the mammalian diaphragm - the diaphragmaticus - but this muscle helps create a unidirectional flow of air through the lungs rather than a tidal flow: this is more similar to the air-flow seen in birds than that seen in mammals.[31] During inhalation, the diaphragmaticus pulls the liver back, inflating the lungs into the space this creates.[32][33] Air flows into the lungs from the bronchus during inhalation, but during exhalation, air flows out of the lungs into the bronchus by a different route: this one-way movement of gas is achieved by aerodynamic valves in the airways.[34][35]
+
+Birds have lungs but no diaphragm. They rely mostly on air sacs for ventilation. These air sacs do not play a direct role in gas exchange, but help to move air unidirectionally across the gas exchange surfaces in the lungs. During inhalation, fresh air is taken from the trachea down into the posterior air sacs and into the parabronchi which lead from the posterior air sacs into the lung. The air that enters the lungs joins the  air which is already in the lungs, and is drawn forward across the gas exchanger into anterior air sacs. During exhalation, the posterior air sacs force air into the same parabronchi of the lungs, flowing in the same direction as during inhalation, allowing continuous gas exchange irrespective of the breathing cycle. Air exiting the lungs during exhalation joins the air being expelled from the anterior air sacs (both consisting of "spent air" that has passed through the gas exchanger) entering the trachea to be  exhaled  (Fig. 10).[13] Selective bronchoconstriction at the various bronchial branch points ensures that the air does not ebb and flow through the bronchi during inhalation and exhalation, as it does in mammals, but follows the paths described above.
+
+The unidirectional airflow through the parabronchi exchanges respiratory gases with a crosscurrent blood flow (Fig. 9).[12][13] The partial pressure of O2 (
+
+
+
+
+P
+
+
+
+
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {O} }_{2}}}
+
+) in the parabronchioles declines along their length as O2 diffuses into the blood. The capillaries leaving the exchanger near the entrance of airflow take up more O2 than capillaries leaving near the exit end of the parabronchi.  When the contents of all capillaries mix, the final 
+
+
+
+
+P
+
+
+
+
+O
+
+
+
+2
+
+
+
+
+
+
+{\displaystyle P_{{\mathrm {O} }_{2}}}
+
+ of the mixed pulmonary venous blood is higher than that of the exhaled air, but lower than that of the inhaled air.[12][13]
+
+Gas exchange in plants is dominated by the roles of carbon dioxide, oxygen and water vapor. CO2 is the only carbon source for autotrophic growth by photosynthesis, and when a plant is actively photosynthesising in the light, it will be taking up carbon dioxide, and losing water vapor and oxygen. At night, plants respire, and gas exchange partly reverses: water vapor is still lost (but to a smaller extent), but oxygen is now taken up and carbon dioxide released.[36]
+
+Plant gas exchange occurs mostly through the leaves. Gas exchange between a leaf and the atmosphere occurs simultaneously through two pathways: 1) epidermal cells and cuticular waxes (usually referred as 'cuticle') which are always present at each leaf surface, and 2) stomata, which typically control the majority of the exchange.[37] Gases enter into the photosynthetic tissue of the leaf through dissolution onto the moist surface of the palisade and spongy mesophyll cells. The spongy mesophyll cells are loosely packed, allowing for an increased surface area, and consequently an increased rate of gas-exchange. Uptake of carbon dioxide necessarily results in some loss of water vapor,[38] because both molecules enter and leave by the same stomata, so plants experience a gas exchange dilemma: gaining enough CO2 without losing too much water. Therefore, water loss from other parts of the leaf is minimised by the waxy cuticle on the leaf's epidermis. The size of a stoma is regulated by the opening and closing of its two guard cells: the turgidity of these cells determines the state of the stomatal opening, and this itself is regulated by water stress. Plants showing crassulacean acid metabolism are drought-tolerant xerophytes and perform almost all their gas-exchange at night, because it is only during the night that these plants open their stomata. By opening the stomata only at night, the water vapor loss associated with carbon dioxide uptake is minimised. However, this comes at the cost of slow growth: the plant has to store the carbon dioxide in the form of malic acid for use during the day, and it cannot store unlimited amounts.[39]
+
+Gas exchange measurements are important tools in plant science: this typically involves sealing the plant (or part of a plant) in a chamber and measuring changes in the concentration of carbon dioxide and water vapour with an infrared gas analyzer. If the environmental conditions (humidity, CO2 concentration, light and temperature) are fully controlled, the measurements of CO2 uptake and water release reveal important information about the CO2 assimilation and transpiration rates. The intercellular CO2 concentration reveals important information about the photosynthetic condition of the plants.[40][41] Simpler methods can be used in specific circumstances: hydrogencarbonate indicator can be used to monitor the consumption of CO2 in a solution containing a single plant leaf at different levels of light intensity,[42] and oxygen generation by the pondweed Elodea can be measured by simply collecting the gas in a submerged test-tube containing a small piece of the plant.
+
+The mechanism of gas exchange in invertebrates depends their size, feeding strategy, and habitat (aquatic or terrestrial).
+
+The sponges (Porifera) are sessile creatures, meaning they are unable to move on their own and normally remain attached to their substrate. They obtain nutrients through the flow of water across their cells, and they exchange gases by simple diffusion across their cell membranes. Pores called ostia draw water into the sponge and the water is subsequently circulated through the sponge by cells called choanocytes which have hair-like structures that move the water through the sponge.[43]
+
+The cnidarians include corals, sea anemones, jellyfish and hydras. These animals are always found in aquatic environments, ranging from fresh water to salt water. They do not have any dedicated respiratory organs; instead, every cell in their body can absorb oxygen from the surrounding water, and release waste gases to it. One key disadvantage of this feature is that cnidarians can die in environments where water is stagnant, as they deplete the water of its oxygen supply.[44] Corals often form symbiosis with other organisms, particularly photosynthetic dinoflagellates. In this symbiosis, the coral provides shelter and the other organism provides nutrients to the coral, including oxygen.
+
+The roundworms (Nematoda), flatworms (Platyhelminthes), and many other small invertebrate animals living in aquatic or otherwise wet habitats do not have a dedicated gas-exchange surface or circulatory system. They instead rely on diffusion of CO2 and O2 directly across their cuticle.[45][46] The cuticle is the semi-permeable outermost layer of their bodies.
+
+Other aquatic invertebrates such as most molluscs (Mollusca) and larger crustaceans (Crustacea) such as lobsters, have gills analogous to those of fish, which operate in a similar way.
+
+Unlike the invertebrates groups mentioned so far, insects are usually terrestrial, and exchange gases across a moist surface in direct contact with the atmosphere, rather than in contact with surrounding water. The insect's exoskeleton is impermeable to gases, including water vapor, so they have a more specialised gas exchange system, requiring gases to be directly transported to the tissues via a complex network of tubes. This respiratory system is separated from their circulatory system. Gases enter and leave the body through openings called spiracles, located laterally along the thorax and abdomen. Similar to plants, insects are able to control the opening and closing of these spiracles, but instead of relying on turgor pressure, they rely on muscle contractions.[47] These contractions result in an insect's abdomen being pumped in and out. The spiracles are connected to tubes called tracheae, which branch repeatedly and ramify into the insect's body. These branches terminate in specialised tracheole cells which provides a thin, moist surface for efficient gas exchange, directly with cells.[48]
+
+The other main group of terrestrial arthropod, the arachnids (spiders, scorpion, mites, and their relatives) typically perform gas exchange with a book lung.[49]

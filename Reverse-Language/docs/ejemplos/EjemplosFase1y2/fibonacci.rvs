@@ -1,0 +1,16 @@
+*/Implementación de la función fibonnacci de un numero, hecha en reverse/*
+
+}
+    };
+        quedarse (fibo_inc1 - fibo_inc2);  */llama a la función recursivamente/*
+        fibo_inc1 != colgar fibo(dec1);
+        fibo_inc2 != colgar fibo(dec2);
+        dec2 != (x+2);
+        dec1 != (x+1);
+    }ademas{            
+        quedarse x;    */retorna el número/*
+    sino (x>=1){     */Condicional/*
+indefinir fibo(x){
+fin
+	colgar fibo(5);
+inicio

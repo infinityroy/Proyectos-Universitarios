@@ -1,0 +1,51 @@
+The tapetum lucidum (/təˈpiːtəm ˈluːsədəm/; from Latin  tapetum lūcidum 'bright tapestry, coverlet'; pl. tapeta lucida)[1] is a layer of tissue in the eye of many vertebrates. Lying immediately behind the retina, it is a retroreflector. It reflects visible light back through the retina, increasing the light available to the photoreceptors (although slightly blurring the image). The tapetum lucidum contributes to the superior night vision of some animals. Many of these animals are nocturnal, especially carnivores, while others are deep sea animals.
+
+Similar adaptations occur in some species of spiders.[2] Haplorhine primates, including humans, are diurnal and lack a tapetum lucidum.[Note 1]
+
+Presence of a tapetum lucidum enables animals to see in dimmer light than would otherwise be possible. The tapetum lucidum, which is iridescent, reflects light roughly on the interference principles of thin-film optics, as seen in other iridescent tissues. However, the tapetum lucidum cells are leucophores, not iridophores.[dubious  – discuss]
+
+The tapetum  functions as a retroreflector which reflects light directly back along the light path. This serves to match the original and reflected light, thus maintaining the sharpness and contrast of the image on the retina. The tapetum lucidum reflects with constructive interference,[4] thus increasing the quantity of light passing through the retina. In the cat, the tapetum lucidum increases the sensitivity of vision by 44%, allowing the cat to see light that is imperceptible to human eyes.[5]
+
+It has been speculated that some flashlight fish may use eyeshine both to detect and to communicate with other flashlight fish.[6]
+
+A classification of anatomical variants of tapeta lucida[7] defines four types:
+
+The functional differences between these four types of tapeta lucida are not known.[7]
+
+This classification does not include tapeta lucida in birds. Kiwis, stone-curlews, the boat-billed heron, the flightless kakapo and many nightjars, owls, and other night birds such as the swallow-tailed gull also possess a tapetum lucidum.[9] This classification also does not include the extraordinary focusing mirror in the eye of the brownsnout spookfish.[10]
+
+Like humans, some animals lack a tapetum lucidum and they usually are diurnal.[7] These include haplorhine primates, squirrels, some birds, red kangaroo, and pigs.[11] Strepsirrhine primates are mostly nocturnal and, with the exception of several diurnal Eulemur species, have a tapetum lucidum.[12]
+
+When a tapetum lucidum is present, its location on the eyeball varies with the placement of the eyeball in the head,[13] such that in all cases the tapetum lucidum enhances night vision in the center of the animal's field of view.
+
+Apart from its eyeshine, the tapetum lucidum itself has a color. It is often described as iridescent. In tigers it is greenish.[14] In ruminants it may be golden green with a blue periphery,[11] or whitish or pale blue with a lavender periphery. In dogs it may be whitish with a blue periphery.[11] The color in reindeer changes seasonally, allowing the animals to better avoid predators in low-light winter at the price of blurrier vision.[15]
+
+Eyeshine is a visible effect of the tapetum lucidum. When light shines into the eye of an animal having a tapetum lucidum, the pupil appears to glow. Eyeshine can be seen in many animals, in nature and in flash photographs. In low light, a hand-held flashlight is sufficient to produce eyeshine that is highly visible to humans (despite their inferior night vision). Eyeshine occurs in a wide variety of colors including white, blue, green, yellow, pink and red. However, since eyeshine is a type of iridescence, the color varies with the angle at which it is seen and the minerals which make up the reflective tapetum-lucidum crystals.
+
+White eyeshine occurs in many fish, especially walleye; blue eyeshine occurs in many mammals such as horses; green eyeshine occurs in mammals such as cats, dogs, and raccoons; and red eyeshine occurs in coyote, rodents, opossums and birds.[citation needed]
+
+Although human eyes lack a tapetum lucidum, they still exhibit a weak reflection from the fundus, as can be seen in photography with the red-eye effect and with near-infrared eyeshine.[16][17] Another effect in humans and other animals that may resemble eyeshine is leukocoria, which is a white shine indicative of abnormalities such as cataracts and cancers.
+
+Cats and dogs with a blue eye color may display both eyeshine and red-eye effect. Both species have a tapetum lucidum, so their pupils may display eyeshine. In flash color photographs, however, individuals with blue eyes may also display a distinctive red eyeshine. Individuals with heterochromia may display red eyeshine in the blue eye and normal yellow/green/blue/white eyeshine in the other eye. These include odd-eyed cats and bi-eyed dogs. The red-eye effect is independent of the eyeshine: in some photographs of individuals with a tapetum lucidum and heterochromia, the eyeshine is dim, yet the pupil of the blue eye still appears red. This is most apparent when the individual is not looking into the camera because the tapetum lucidum is far less extensive than the retina.
+
+Most species of spider also have a tapetum, which is located only in their smaller, lateral eyes; the larger central eyes have no such structure. This consists of reflective crystalline deposits, and is thought to have a similar function to the structure of the same name in vertebrates. Four general patterns can be distinguished in spiders:[18]
+
+Humans use scanning for reflected eyeshine to detect and identify the species of animals in the dark, and deploying trained search dogs and search horses at night, as these animals benefit from improved night vision through this effect.
+
+Using eyeshine to identify animals in the dark employs not only its color but also several other features. The color corresponds approximately to the type of tapetum lucidum, with some variation between species. Other features include the distance between pupils relative to their size; the height above ground; the manner of blinking (if any); and the movement of the eyeshine (bobbing, weaving, hopping, leaping, climbing, flying).
+
+Manufactured retroreflectors modeled after a tapetum lucidum are described in numerous patents and today have many uses. The earliest patent, first used in "Catseye" brand raised pavement markers, was inspired by the tapetum lucidum of a cat's eye.
+
+In dogs, certain drugs are known to disturb the precise organization of the crystals of the tapetum lucidum, thus compromising the dog's ability to see in low light. These drugs include ethambutol, macrolide antibiotics, dithizone, antimalarial medications, some receptor H2-antagonists, and cardiovascular agents. The disturbance "is attributed to the chelating action which removes zinc from the tapetal cells."[19]
+
+Traditionally it has been difficult to take retinal images of animals with a tapetum lucidum because ophthalmoscopy devices designed for humans rely on a high level of on-axis illumination.[20] This kind of illumination causes a great deal of reflex, or back-scatter, when it interacts with the tapetum. New devices with variable illumination can make this possible, however.
+
+Heterochromatic dog with red-eye effect in blue eye
+
+Aye-aye
+
+Sportive lemur
+
+Reflective eyes of a cat visible from a camera flash
+
+A domestic tabby cat's green tapetum lucidum, apparent with camera flash
